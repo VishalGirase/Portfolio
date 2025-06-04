@@ -210,6 +210,7 @@ with st.container():
             <p>ReadMe : <a href="https://github.com/VishalGirase/ADF/blob/Dev/README.md" target="_blank" class="dark-link">Project Explanation</a></p>
             <p>ADF Pipeline Architecture : <a href="https://github.com/VishalGirase/ADF/blob/Dev/Images/1.png" target="_blank" class="dark-link">⛓️</a></p>        
             <p>Developed an Azure Data Factory pipeline for automated data ingestion, transformation, and load</p>
+            <p>Demo : <a href = "https://youtu.be/lc4C7BPsrKs?si=qkMlQw7sHZ_FSDA4" target="_blank" class="dark-link">▶️</a></p>
             <ul>
                 <li>Created Bronze | Silver | Gold Container under Gen2 data lake storage</li>
                 <li>Using Lookup activity connect the SQL Server Management Studio(SSMS) tables to bronze</li>
@@ -241,6 +242,7 @@ with st.container():
             <p>GitHub Repo : <a href="https://github.com/VishalGirase/Azure_databricks_earthquake/tree/dev" target="_blank" class="white-link">Azure Databricks Earthquake Pipeline</a></p>
             <p>Workflow Architecture : <a href="https://github.com/VishalGirase/Azure_databricks_earthquake/blob/dev/Images/1.jpeg" target="_blank" class="dark-link">⛓️</a></p>
             <p>Developed an Databricks pipeline and Automated workflows on live data of earthquake:</p>
+            <p>Demo : <a href = "https://youtu.be/Mp3Aq0pOLOY?si=gFCzaIByeqcCJAS-" target="_blank" class="dark-link">▶️</a></p>
             <ul>
                 <li>Live EarthQuake Data Extraction from https://earthquake.usgs.gov/</li>
                 <li>Clean the data and store the raw Parque files under Gen2 Data lake bronze container</li>
@@ -259,6 +261,7 @@ with st.container():
             <p>Synapse ARM Template that can be use to merge the code in Azure DEVOPS: <a href="https://github.com/VishalGirase/Azure_synapse_data_warehouse_pipeline/tree/workspace_publish" target="_blank" class="dark-link">ARM Template</a></p>
             <p>Synpase Pipeline Architecture : <a href="https://github.com/VishalGirase/Azure_synapse_data_warehouse_pipeline/blob/dev/images/synpase_pipeline.jpeg" target="_blank" class="dark-link">⛓️</a></p>
             <p>Developed Azure Synapse automated pipeline on gold(refined data):</p>
+            <p>Demo : <a href = "https://youtu.be/lmTEzKlAeDw?si=j5Vh3nV90PaY1o1U" target="_blank" class="dark-link">▶️</a></p>
             <ul>
                 <li>Data Extraction from gold gen2 container</li>
                 <li>Created Pipeline using drag and drop activities. Such as copy data, lookup and foreach </li>
