@@ -186,14 +186,14 @@ with st.container():
 
     <strong>Data Engineer | <a href = "https://github.com/VishalGirase/experience-letter/blob/main/TCS_experience_letter/1604206_Release_Letter.pdf">TCS</a>, India (06/2019 - 06/2021)</strong><br>
     <ul>
-    <li>Experienced Data Engineer with a strong background in designing OLAP models, ETL pipelines, \n
-    and enterprise data warehouses using tools like Python, PySpark, SSIS, and PL/SQL. Skilled in data \n 
-    modeling (3NF, Star, Snowflake), SCD handling, and migrating data from Teradata to Hadoop with Hive and Spark SQL. \n
-    Developed and deployed data-driven applications using Spring Boot, JSP, and RESTful services, with experience in data \n
-    quality, governance, and reporting using Power BI. Proficient in working with stakeholders to define and validate ETL requirements, \n
-    optimize performance, and ensure secure, scalable data solutions.</li>
-    <li>Focused on SQL, PL/SQL, Python, and Databricks for data warehousing solutions (SCD type 1 and 2)</li>
-    <li>Participated in Agile teams, created scripts, and developed documentation for large scale projects</li>
+    Experienced Data Engineer with a strong background in designing OLAP models, ETL pipelines,
+    and enterprise data warehouses using tools like Python, PySpark, SSIS, and PL/SQL. Skilled in data
+    modeling (3NF, Star, Snowflake), SCD handling, and migrating data from Teradata to Hadoop with Hive and Spark SQL.
+    Developed and deployed data-driven applications using Spring Boot, JSP, and RESTful services, with experience in data
+    quality, governance, and reporting using Power BI. Proficient in working with stakeholders to define and validate ETL requirements,
+    optimize performance, and ensure secure, scalable data solutions.
+    # <li>Focused on SQL, PL/SQL, Python, and Databricks for data warehousing solutions (SCD type 1 and 2)</li>
+    # <li>Participated in Agile teams, created scripts, and developed documentation for large scale projects</li>
     </ul>
     </div>
     """, unsafe_allow_html=True)
