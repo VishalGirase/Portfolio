@@ -204,8 +204,8 @@ with st.container():
     Experience working in both Agile and Waterfall environments.
     </li>
     <li>
-    Good experienced with OLAP, Snowpipe, SNowflake latyers (Database, Virtual Warehouse, Cloud layer), Snowflake schemas.     
-    <li>
+    Proficient in OLAP, Snowflake architecture including Snowpipe, and core layers such as Database, Virtual Warehouse, and Cloud services, with experience in designing and managing Snowflake schemas     
+    </li>
     </ul>
     </div>
     """, unsafe_allow_html=True)
