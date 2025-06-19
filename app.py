@@ -215,7 +215,7 @@ with st.container():
     <div class="section-container">
     <h2>💼 Work Experience</h2>
 
-    <strong>Capital One - Data Engineer</strong> 
+    <strong>Azure Data Engineer | Capital One, GTA - Canada (07/2024 - Currently Working)</strong> 
     <ul>
     Experienced Data Engineer with expertise in designing and executing end-to-end ETL pipelines using Azure Data Factory, Databricks, 
     SSIS, and PySpark across hybrid cloud environments (Azure, AWS). Skilled in data modeling, data lake architecture, and migrating 
