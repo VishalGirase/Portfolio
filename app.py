@@ -145,8 +145,13 @@ with col2:
     <p>📧 <a href="mailto:vishal1997girase@gmail.com" class="white-link">vishal1997girase@gmail.com</a> 
     💼 <a href="https://www.linkedin.com/in/vishal-girase/" target="_blank" class="white-link">LinkedIn</a></p>
     <p>North York, Toronto | +1 437 662 0424</p>
-    <p><strong>Versatile Data Professional | Expert Data Engineer & Analyst</strong></p>
-    <p>Proficient in ETL, SQL, Python, Azure(ADF | Databricks | Synpase) | Data Modeling & Visualization Enthusiast</p>
+    <p>
+    <strong>
+    (ETL, CI-CD, Data-warehouse, Data model) Tester | Versatile Data Professional 
+    | Expert Data Engineer & Analyst | 6+ Yrs in Azure & AWS | Proficient in ETL, SQL, Python 
+    | Data Modeling & Visualization Enthusiast
+    </strong>
+    </p>
     </div>
     """, unsafe_allow_html=True)
 
