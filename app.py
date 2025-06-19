@@ -176,12 +176,23 @@ with st.container():
     <div class="section-container">
     <h2>💼 Work Experience</h2>
 
-    <strong>Capital One - Data Engineer</strong>    
-
+    <strong>Capital One - Data Engineer</strong> 
+    <ul>
+    Experienced Data Engineer with expertise in designing and executing end-to-end ETL pipelines using Azure Data Factory, Databricks, 
+    SSIS, and PySpark across hybrid cloud environments (Azure, AWS). Skilled in data modeling, data lake architecture, and migrating 
+    on-premise systems to Azure Synapse. Developed automated CI/CD pipelines using Git, Jenkins, and Python. Proficient in SQL Server development, 
+    including SSRS dashboards, performance tuning, and advanced data transformation tasks. Built dynamic Power BI dashboards and SSIS packages integrating 
+    data from multiple sources like Oracle, Teradata, and flat files. Actively collaborated in Agile environments, supporting business analysis and delivering 
+    scalable data warehousing solutions.
+    </ul>
+    
     <strong>Data Engineer | <a href = "https://github.com/VishalGirase/experience-letter/blob/main/Cognizant_experience_letter/SeparationLetter_2037789.pdf">Cognizant</a>, India (07/2021 - 08/2023)</strong><br>
     <ul>
-    <li>Worked on projects involving PySpark, Python, Kafka, Hive, Azure Data Lake, Azure Databricks, Azure DataFactory, Azure Synapse and Key-Vault</li>
-    <li>Key achievements include building and maintaining ETL pipelines, automating data workflows, and managing data integration across platforms</li>
+    Experienced Data Engineer with a strong focus on ETL development, data warehousing, and reporting solutions using SSIS, Power BI, and SQL Server. 
+    Proficient in handling change requests, designing star schemas, and developing complex ETL pipelines with incremental loading, SCDs, and data scrubbing. 
+    Automated data workflows using Azure DevOps, GitHub Actions, and Jenkins for CI/CD. Skilled in performance tuning, transactional replication, and database mirroring. 
+    Integrated stored procedures and views into Power BI for dynamic dashboards and consistent metrics. 
+    Worked extensively with Snowflake, Delta Lake, and external storage systems like S3 and Azure Blob. Managed sprints and issue resolution using Jira and Azure Boards while supporting cross-functional teams on data conversion strategies.
     </ul>
 
     <strong>Data Engineer | <a href = "https://github.com/VishalGirase/experience-letter/blob/main/TCS_experience_letter/1604206_Release_Letter.pdf">TCS</a>, India (06/2019 - 06/2021)</strong><br>
@@ -192,8 +203,6 @@ with st.container():
     Developed and deployed data-driven applications using Spring Boot, JSP, and RESTful services, with experience in data
     quality, governance, and reporting using Power BI. Proficient in working with stakeholders to define and validate ETL requirements,
     optimize performance, and ensure secure, scalable data solutions.
-    # <li>Focused on SQL, PL/SQL, Python, and Databricks for data warehousing solutions (SCD type 1 and 2)</li>
-    # <li>Participated in Agile teams, created scripts, and developed documentation for large scale projects</li>
     </ul>
     </div>
     """, unsafe_allow_html=True)
