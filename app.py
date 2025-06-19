@@ -156,7 +156,11 @@ with st.container():
     <div class="section-container">
     <h2>🔍 Profile Summary</h2>
     <p>
-    Highly experienced Azure Data Engineer, ETL Developer, Data Modeling and BI Developer with 6+ years of IT experience in Database Development, ETL solutions, and building Data Warehouses, as well as proven ability to produce results in a fast-paced environment with critical deadlines. Outgoing and articulate communicator who gets along well with clients and coworkers at all levels. I work well independently as well as collaboratively in a team environment.
+    Highly experienced Azure Data Engineer, ETL Developer, Data Modeling and BI Developer with 6+ years 
+    of IT experience in Database Development, ETL solutions, and building Data Warehouses, as well as 
+    proven ability to produce results in a fast-paced environment with critical deadlines. Outgoing and 
+    articulate communicator who gets along well with clients and coworkers at all levels. 
+    I work well independently as well as collaboratively in a team environment.
     </p>
     <strong>Key Highlights:</strong>
     <ul>
