@@ -155,15 +155,50 @@ with st.container():
     st.markdown("""
     <div class="section-container">
     <h2>🔍 Profile Summary</h2>
-    <p>I am a versatile and accountable Data Engineer with over 4 years of industry experience, specializing in designing and building scalable data pipelines using PySpark, SQL, and Python. My expertise spans across data engineering, analytics, and visualization, with a solid foundation in cloud platforms such as Azure (ADF, Databricks, Synapse and key-vault).</p>
-    <p>I have a proven track record of working in fast-paced environments, collaborating closely with cross-functional teams and clients to translate business needs into efficient data solutions. I'm highly proficient in ETL workflows, data modeling on pharma, real-estate and banking domain data.</p>
+    <p>
+    Highly experienced Azure Data Engineer, ETL Developer, Data Modeling and BI Developer with 6+ years of IT experience in Database Development, ETL solutions, and building Data Warehouses, as well as proven ability to produce results in a fast-paced environment with critical deadlines. Outgoing and articulate communicator who gets along well with clients and coworkers at all levels. I work well independently as well as collaboratively in a team environment.
+    </p>
     <strong>Key Highlights:</strong>
     <ul>
-    <li>Proficient in PySpark, SQL, Hive, and PL/SQL for end-to-end data engineering</li>
-    <li>Experienced with Azure (ADF, Databricks, Delta Lake, Synapse)</li>
-    <li>Adept at debugging, optimizing ETL pipelines, and building scalable data solutions</li>
-    <li>Hands-on with analytics tools like Power BI, Tableau, and real-time data ingestion</li>
-    <li>Strong communicator and collaborator with a client-focused mindset</li>
+    <li>
+    Strong experience in SQL Server (2014/2016), T-SQL, and database design, including stored procedures, triggers, views, functions, and indexing.
+    </li>
+    <li>
+    Developed and maintained Business Intelligence solutions using SSIS, DTS Packages, SSRS, and SSAS (OLAP Cubes, DAX, MDX).
+    </li>
+    <li>
+    Built ETL workflows using SSIS, integrating data from Excel, CSV, Flat Files, Access, Oracle, DB2, Salesforce, and CRM by using multiple transformations provided by SSIS such as Data Conversion, Conditional Split, Bulk Insert, Derived Column, Merge, Merge Join, and Union all
+    </li>
+    <li>
+    Migrated on-prem SQL Server databases to Azure SQL DB, Azure Data Lake, and Azure SQL Data Warehouse using Azure Data Factory.
+    </li>
+    <li>
+    Experience in the Development of Structured Data, Data Analysis, Data Design, Documentation, and Implementation of Business Intelligence Applications.
+    </li>
+    <li>
+    Good understanding of Azure Data Lake Store and created POCs for data movement from Flat Files and SQL Server.
+    </li>
+    <li>
+    Created dashboards and interactive reports (drill-down, parameterized, matrix, chart) using SSRS and Power BI.
+    </li>
+    <li>
+    Proficient in Data Warehousing concepts, dimensional modeling (Star & Snowflake schemas), and ETL pipelines.
+    </li>
+    <li>
+    Optimized performance through query tuning and indexing; handled database access control and scheduled SSIS packages using SQL Agent.
+    </li>
+    <li>
+    Designed and implemented CI/CD pipelines using Azure DevOps, Jenkins, and GitLab CI for automated data workflows.
+    </li>
+    <li>
+    Experience with SQL Server MDS features such as hierarchies, granular security, versioning, and business rules.
+    </li>
+    <li>
+    Strong communication, collaboration, and problem-solving abilities
+    </li>
+    <li>
+    Experience working in both Agile and Waterfall environments.
+    </li>
     </ul>
     </div>
     """, unsafe_allow_html=True)
