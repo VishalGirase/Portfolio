@@ -203,6 +203,9 @@ with st.container():
     <li>
     Experience working in both Agile and Waterfall environments.
     </li>
+    <li>
+    Good experienced with OLAP, Snowpipe, SNowflake latyers (Database, Virtual Warehouse, Cloud layer), Snowflake schemas.     
+    <li>
     </ul>
     </div>
     """, unsafe_allow_html=True)
