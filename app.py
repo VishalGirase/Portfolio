@@ -135,8 +135,8 @@ st.markdown(f"""
 # Header Section
 col1, col2 = st.columns([1.5, 2])
 
-# with col1:
-#     st.image("Vishal_Girase.jpg", width=350)
+with col1:
+    st.image("Vishal_Girase.jpg", width=350)
 
 with col2:
     st.markdown("""
