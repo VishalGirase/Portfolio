@@ -144,7 +144,7 @@ with col2:
     <h1>👋 Hi, I'm Vishal Girase</h1>
     <p>📧 <a href="mailto:vishal1997girase@gmail.com" class="white-link">vishal1997girase@gmail.com</a> 
     💼 <a href="https://www.linkedin.com/in/vishal-girase/" target="_blank" class="white-link">LinkedIn</a></p>
-    <p>North York, Toronto | +1 437 662 0424</p>
+    <p>Pune, India | +91 8329914150</p>
     <p>
     <strong>
     (ETL, CI-CD, Data-warehouse, Data model) Tester | Versatile Data Professional 
